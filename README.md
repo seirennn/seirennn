@@ -17,17 +17,16 @@ Here are some ideas to get you started:
 ### 💻 Languages and Tools
 
 <p align="center">
-  <code><img title="Ruby" height="40" width="40" src="../main/.github/assets/icons/ruby.png"></code>
+    <code><img title="Supabase" height="40" width="40" src="../main/.github/assets/icons/Supabase.svg"></code>
+
   <code><img title="Javascript" height="40" width="40" src="../main/.github/assets/icons/Javascript.png"></code>
   <code><img title="Typescript" height="40" width="40" src="../main/.github/assets/icons/typescript.png"></code>
   <code><img title="HTML5" height="40" width="40" src="../main/.github/assets/icons/html5.svg"></code>
   <code><img title="CSS" height="40" width="40" src="../main/.github/assets/icons/css.svg"></code>
-  <code><img title="SASS" height="40" width="40" src="../main/.github/assets/icons/sass.svg"></code>
   <code><img title="NodeJS" height="40" width="40" src="../main/.github/assets/icons/nodejs.png"></code>
   <code><img title="npm" height="40" width="40" src="../main/.github/assets/icons/npm.svg"></code>
   <code><img title="React" height="40" width="40" src="../main/.github/assets/icons/react-original-wordmark.svg"></code>
   <code><img title="NextJS" height="40" width="40" src="../main/.github/assets/icons/nextjs.svg"></code>
-  <code><img title="SQL" height="40" width="40" src="../main/.github/assets/icons/sql.png" alt="sql"></code>
   <code><img title="MySQL" height="40" width="40" src="../main/.github/assets/icons/mysql.svg"></code>
   <code><img title="Redis" height="40" width="40" src="../main/.github/assets/icons/redis.png"></code>
 </p>
@@ -48,8 +47,9 @@ Here are some ideas to get you started:
   <code><img title="Terminal" height="40" width="40" src="../main/.github/assets/icons/terminal.png"></code>
   <code><img title="Docker" height="40" width="40" src="../main/.github/assets/icons/docker.png"></code>
   <code><img title="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-  <code><img title="Arch btw" height="40" width="40" src="../main/.github/assets/icons/arch.svg" 
-</p>
+  <code><img title="Arch btw" height="40" width="40" src="../main/.github/assets/icons/arch.svg"></code>
+  <code><img title="Hyprland" height="40" width="40" src="https://code.hyprland.org/hyprwm/hyprland-website/raw/commit/00f167e7b888e356aac09bd5aaa513cccc69b553/src/lib/images/logos/hyprland-color.svg"></code>
 
+https://code.hyprland.org/hyprwm/hyprland-website/raw/commit/00f167e7b888e356aac09bd5aaa513cccc69b553/src/lib/images/logos/hyprland-color.svg
 </p>
 
