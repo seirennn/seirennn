@@ -1,0 +1,71 @@
+{
+  "Nix": [
+    {
+      "title": "nvf",
+      "link": "https://github.com/notashelf/nvf",
+      "description": "a highly extensible and distro agnostic configuration framework for Neovim using Nix"
+    },
+    {
+      "title": "Nyx",
+      "link": "https://github.com/notashelf/nyx",
+      "description": "the first child of Chaos and also an alias for my configuration for the ultimate declarative Linux distro, NixOS!"
+    },
+    {
+      "title": "Nyxpkgs",
+      "link": "https://github.com/notashelf/nyxexprs",
+      "description": "collection of packages not found in Nixpkgs"
+    },
+    {
+      "title": "Basix",
+      "link": "https://github.com/NotAShelf/Basix",
+      "description": "Purely functional collection of Base16/Base24 themes to be used with Nix"
+    },
+    {
+      "title": "ndg",
+      "link": "https://github.com/feel-co/ndg",
+      "description": "alternative documentation generation for any Nix based module system"
+    },
+    {
+      "title": "Schizofox",
+      "link": "https://github.com/schizofox/schizofox",
+      "description": "privacy and security oriented Firefox configuration for Home-manager"
+    }
+  ],
+  "Bash, Go, Python, Typescript, Java, JS": [
+    {
+      "title": "CatApi",
+      "link": "https://github.com/notashelf/catApi",
+      "description": "minimal API for serving pictures of your cats. Features a convenient frontend"
+    },
+    {
+      "title": "Tailray",
+      "link": "https://github.com/notashelf/Tailray",
+      "description": "rust implementation of Tailscale systray"
+    },
+    {
+      "title": "Hyprkeys",
+      "link": "https://github.com/hyprland-community/Hyprkeys",
+      "description": "powerful and easy to use keyboard utility designed for my favorite Wayland Compositor, Hyprland"
+    },
+    {
+      "title": "nff",
+      "link": "https://github.com/notashelf/nff",
+      "description": "experimental nftables configuration beautifier in Python"
+    },
+    {
+      "title": "batmon",
+      "link": "https://github.com/notashelf/batmon",
+      "description": "dead simple battery monitor in Go, with the ability to emit events on change"
+    },
+    {
+      "title": "Goblin",
+      "link": "https://github.com/notashelf/goblin",
+      "description": "termbin-inspired paste service to replace Fiche, written in Go"
+    },
+    {
+      "title": "Nutils",
+      "link": "https://github.com/notashelf/nutils",
+      "description": "an external utility crate for the Nix package manager"
+    }
+  ]
+}
