@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 💻 Languages and Tools
 
 <p align="center">
-    <code><img title="Supabase" height="40" width="40" src="../main/.github/assets/icons/Supabase.svg"></code>
+    <code><img title="Supabase" height="40" width="40" src="../main/.github/assets/icons/supabase.svg"></code>
 
   <code><img title="Javascript" height="40" width="40" src="../main/.github/assets/icons/Javascript.png"></code>
   <code><img title="Typescript" height="40" width="40" src="../main/.github/assets/icons/typescript.png"></code>
@@ -49,7 +49,5 @@ Here are some ideas to get you started:
   <code><img title="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
   <code><img title="Arch btw" height="40" width="40" src="../main/.github/assets/icons/arch.svg"></code>
   <code><img title="Hyprland" height="40" width="40" src="https://code.hyprland.org/hyprwm/hyprland-website/raw/commit/00f167e7b888e356aac09bd5aaa513cccc69b553/src/lib/images/logos/hyprland-color.svg"></code>
-
-https://code.hyprland.org/hyprwm/hyprland-website/raw/commit/00f167e7b888e356aac09bd5aaa513cccc69b553/src/lib/images/logos/hyprland-color.svg
 </p>
 
