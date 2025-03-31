@@ -9,6 +9,15 @@ My journey as a developer has been one of selfless commitment and effortless gri
 
 <br>
 
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=seirennn&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seirennn&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Seirennn's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=seirennn&bg_color=000000&color=94b4a4&line=FFFFFF&point=FFFFFF&hide_border=true" />
+</a>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sehrrennn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jordann_lh) 
