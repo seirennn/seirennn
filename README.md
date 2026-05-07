@@ -1,11 +1,7 @@
 
 
 # 🎱 About Me:
-I’m a dedicated and passionate developer with a relentless drive to create innovative and impactful software solutions. Currently, I’m working with multiple startups, but my primary focus is on building a software company that turns clients’ visions into reality through our expertise. Our goal is to deliver tailor-made products that not only meet but exceed client expectations by combining their vision with our technical skills.
-
-
-My journey as a developer has been one of selfless commitment and effortless grind. I’m always pushing boundaries and challenging myself to solve complex problems while delivering top-tier solutions. Whether it’s collaborating with clients or working behind the scenes, I strive to produce results that are both functional and forward-thinking.
-
+I build. alot of stuffs.
 
 <br>
 
